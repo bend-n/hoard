@@ -1,0 +1,8 @@
+[package]
+name = "airhoard"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+iqair = "0.1.0"
+serde_json = "1.0.138"
